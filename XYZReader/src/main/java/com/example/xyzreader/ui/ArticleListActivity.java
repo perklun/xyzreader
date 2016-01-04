@@ -99,7 +99,7 @@ public class ArticleListActivity extends AppCompatActivity implements LoaderMana
         ItemRecyclerViewAdapter itemRecyclerViewAdapter = new ItemRecyclerViewAdapter(cursor);
         itemRecyclerViewAdapter.setHasStableIds(true);
         mRecyclerView.setAdapter(itemRecyclerViewAdapter);
-        int columnCount = getResources().getInteger(R.integer.list_column_count);
+        int columnCount = getResources().getInteger(R.integer.grid_columns);
         StaggeredGridLayoutManager sglm =
                 new StaggeredGridLayoutManager(columnCount, StaggeredGridLayoutManager.VERTICAL);
         mRecyclerView.setLayoutManager(sglm);
