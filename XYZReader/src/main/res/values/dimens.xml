@@ -1,0 +1,36 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="elevation_fab_default">12dp</dimen>
+    <dimen name="elevation_fab_pressed">6dp</dimen>
+
+    <dimen name="small_margin_left">4dp</dimen>
+    <dimen name="small_margin_right">4dp</dimen>
+    <dimen name="small_margin_top">4dp</dimen>
+    <dimen name="small_margin_btm">4dp</dimen>
+
+    <dimen name="med_margin_left">8dp</dimen>
+    <dimen name="med_margin_right">8dp</dimen>
+    <dimen name="med_margin_top">8dp</dimen>
+    <dimen name="med_margin_btm">8dp</dimen>
+    <dimen name="large_margin_btm">16dp</dimen>
+
+    <dimen name="text_x_large">24sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_med">16sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+
+    <dimen name="card_margin_left">4dp</dimen>
+    <dimen name="card_margin_right">4dp</dimen>
+
+
+
+
+</resources>
