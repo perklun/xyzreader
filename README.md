@@ -3,7 +3,7 @@
 
 Description
 ----
-This is an Android app to demostrate Material Design elements. The app is an article reader.
+This is an Android app to demonstrate Material Design elements. The app is an article reader for both phone and tablet.
 
 Technical Details
 ----
