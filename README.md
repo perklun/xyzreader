@@ -12,3 +12,6 @@ Technical Details
 - Activities extend from AppCompatActivity and uses CoordinatorLayout
 - Optimized for Tablet
 
+Walkthrough
+---
+![Video Walkthrough](xyzreader.gif)
